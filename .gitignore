@@ -11,7 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-./token.txt
+token.txt
 
 ### Eclipse ###
 .apt_generated
